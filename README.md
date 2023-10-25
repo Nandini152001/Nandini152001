@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nandini152001
+- 👋 Hi, I’m @nandinigoyal
 - 👀 I’m interested in ...Learning coding
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
